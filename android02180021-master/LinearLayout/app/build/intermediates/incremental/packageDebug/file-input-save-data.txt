@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Mar 17 16:31:09 CST 2017
+1.base=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+1.file=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+4.set=ANDROID_RESOURCE
+2.base=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_
+0.set=DEX
+0.base=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+4.base=/Users/memoriesFall/Desktop/android02180021-master/04 Android Layout/LinearLayout/app/build/intermediates/res/resources-debug.ap_
